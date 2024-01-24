@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "LaLiga_Santander_logo_(stacked).svg.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "LaLiga_Santander_logo_(stacked).svg 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "LaLiga_Santander_logo_(stacked).svg 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
